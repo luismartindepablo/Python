@@ -1,1 +1,1 @@
-Tutorials of Python, some Python modules and projects of Beginner to Intermediate Level
+Tutorials of Python, some Python Modules and projects of Beginner to Intermediate Level
