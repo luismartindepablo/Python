@@ -1,8 +1,7 @@
-TKINTER TUTORIAL (notebook Python3)
-Tutorial from codemy.com: https://youtu.be/YXPyB4XeYLA
+Tkinter Beginner's Tutorial from freeCodeCamp.org
+https://youtu.be/YXPyB4XeYLA
 
-Begginer's tutorial to learn how to create graphic interfaces for your programs
-using the tkinter python module:
+Notebook in Python3
 
 - First Steps
 - Labels and Positioning
